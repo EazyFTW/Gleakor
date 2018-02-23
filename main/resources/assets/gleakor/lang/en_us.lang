@@ -1,0 +1,18 @@
+item.ingot_gleakor.name=Gleakor Ingot
+item.ingot_chargedgleakor.name=Charged Gleakor Ingot
+item.nugget_gleakor.name=Gleakor Nugget
+
+item.axe_gleakor.name=Gleakor Axe
+item.hoe_gleakor.name=Gleakor Hoe
+item.pickaxe_gleakor.name=Gleakor Pickaxe
+item.sword_gleakor.name=Gleakor Sword
+item.shovel_gleakor.name=Gleakor Shovel
+
+item.helmet_gleakor.name=Gleakor Helmet
+item.chestplate_gleakor.name=Gleakor Chestplate
+item.leggings_gleakor.name=Gleakor Leggings
+item.boots_gleakor.name=Gleakor Boots
+
+tile.block_gleakor.name=Gleakor Block
+
+itemGroup.gleakortab=Gleakor

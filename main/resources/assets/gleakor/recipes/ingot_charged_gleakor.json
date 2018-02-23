@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "RGR",
+    "GBG",
+    "DID"
+  ],
+  "key": {
+    "G": {
+      "item": "gleakor:ingot_gleakor"
+    },
+    "B": {
+      "item": "minecraft:beacon"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "R": {
+      "item": "minecraft:blaze_rod"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "gleakor:ingot_chargedgleakor",
+    "count": 1
+  }
+}

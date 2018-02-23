@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "GGG",
+    "GGG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "gleakor:ingot_gleakor"
+    }
+  },
+  "result": {
+    "item": "gleakor:block_gleakor",
+    "count": 1
+  }
+}

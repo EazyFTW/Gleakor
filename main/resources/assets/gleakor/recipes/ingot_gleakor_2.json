@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "block_gleakor",
+      "count": 1,
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "gleakor:ingot_gleakor",
+    "count": 9
+  }
+}

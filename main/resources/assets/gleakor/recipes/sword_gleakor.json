@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " G ",
+    " G ",
+    " S "
+  ],
+  "key": {
+    "G": {
+      "item": "gleakor:ingot_gleakor"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gleakor:sword_gleakor",
+    "count": 1
+  }
+}
