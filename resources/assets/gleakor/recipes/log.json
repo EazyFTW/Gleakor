@@ -2,13 +2,14 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "gleakor:ingot_gleakor",
+      "item": "gleakor:block_pile_of_dirt",
       "count": 1,
       "data": 0
     }
   ],
   "result": {
-    "item": "gleakor:nugget_gleakor",
-    "count": 9
+    "item": "minecraft:log",
+    "data": 0,
+    "count": 2
   }
 }

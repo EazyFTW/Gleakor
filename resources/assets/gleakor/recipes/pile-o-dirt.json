@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " L ",
+    "BLB",
+    "BBB"
+  ],
+  "key": {
+    "L" :{
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "B": {
+      "item": "minecraft:wool",
+      "data": 15
+    }
+  },
+  "result": {
+    "item": "gleakor:block_pile_of_dirt",
+    "count": 1
+  }
+}

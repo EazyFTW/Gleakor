@@ -14,5 +14,6 @@ item.leggings_gleakor.name=Gleakor Leggings
 item.boots_gleakor.name=Gleakor Boots
 
 tile.block_gleakor.name=Gleakor Block
+tile.block_pile_of_dirt.name=Pile O' Dirt
 
 itemGroup.gleakortab=Gleakor
